@@ -6,17 +6,17 @@ Creditcard_data.csv
 - Visualising the outcome class 'Class' by using countplot.
 - Balancing using oversampling as the Class 1 was a minority class and very less compared to class 0.
 - Applying 5 different sampling methods on the new dataset.
- - Simple Random Sampling
- - Systematic Sampling
- - Stratified Sampling
- - Cluster Sampling
- - Bootstrap sampling
+  - Simple Random Sampling
+  - Systematic Sampling
+  - Stratified Sampling
+  - Cluster Sampling
+  - Bootstrap sampling
 - Training and testing each sample with 5 different models.
- -  Logistic Regression
- - KNN
- - Random Forest Classifier
- - Gradient Boosting Classifier
- - SVC
+  -  Logistic Regression
+  - KNN
+  - Random Forest Classifier
+  - Gradient Boosting Classifier
+  - SVC
 ### Results
 - Making an accuracy table with each cell corresponding to the accuracy score of the respective model with the respective sample.
 ### Observations
