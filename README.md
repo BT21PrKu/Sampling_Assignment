@@ -2,7 +2,7 @@
 Performing 5 different sampling techniques on a dataset.
 ### Dataset used
 Creditcard_data.csv
-### Exeution steps
+### Execution steps
 - Visualising the outcome class 'Class' by using countplot.
 - Balancing using oversampling as the Class 1 was a minority class and very less compared to class 0.
 - Applying 5 different sampling methods on the new dataset.
