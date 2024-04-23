@@ -1,4 +1,4 @@
-# Sampling_Assignment
+# Credit_Card_Fraud_Detection using various Sampling techniques.
 Performing 5 different sampling techniques on a dataset.
 ### Dataset used
 Creditcard_data.csv
